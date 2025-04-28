@@ -1,0 +1,4 @@
+gradio
+nltk
+scikit-learn
+joblib
