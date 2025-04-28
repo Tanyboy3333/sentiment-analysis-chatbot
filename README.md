@@ -68,7 +68,9 @@ Joblib (for model serialization)
 
 🧠 Features
 Real-time sentiment prediction.
-(For any Input the Output ill be of the form 1:Positive Sentiment, 0:Neutral Sentiment, -1:Negative Sentiment)
+
+
+(For any Input the Output will be of the form 1:Positive Sentiment, 0:Neutral Sentiment, -1:Negative Sentiment)
 
 Hybrid approach combining VADER and Machine Learning.
 
